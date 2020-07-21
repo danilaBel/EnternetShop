@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\megaProject\EnternetShop\EnternetShop.Infrastructure\bin\Debug\netcoreapp3.1\EnternetShop.Infrastructure.deps.json
+C:\Users\User\Desktop\megaProject\EnternetShop\EnternetShop.Infrastructure\bin\Debug\netcoreapp3.1\EnternetShop.Infrastructure.dll
+C:\Users\User\Desktop\megaProject\EnternetShop\EnternetShop.Infrastructure\bin\Debug\netcoreapp3.1\EnternetShop.Infrastructure.pdb
+C:\Users\User\Desktop\megaProject\EnternetShop\EnternetShop.Infrastructure\obj\Debug\netcoreapp3.1\EnternetShop.Infrastructure.csprojAssemblyReference.cache
+C:\Users\User\Desktop\megaProject\EnternetShop\EnternetShop.Infrastructure\obj\Debug\netcoreapp3.1\EnternetShop.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\megaProject\EnternetShop\EnternetShop.Infrastructure\obj\Debug\netcoreapp3.1\EnternetShop.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\megaProject\EnternetShop\EnternetShop.Infrastructure\obj\Debug\netcoreapp3.1\EnternetShop.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\megaProject\EnternetShop\EnternetShop.Infrastructure\obj\Debug\netcoreapp3.1\EnternetShop.Infrastructure.dll
+C:\Users\User\Desktop\megaProject\EnternetShop\EnternetShop.Infrastructure\obj\Debug\netcoreapp3.1\EnternetShop.Infrastructure.pdb

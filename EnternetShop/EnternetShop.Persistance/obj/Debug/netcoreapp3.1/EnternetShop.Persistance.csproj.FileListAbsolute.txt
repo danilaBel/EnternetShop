@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\megaProject\EnternetShop\EnternetShop.Persistance\bin\Debug\netcoreapp3.1\EnternetShop.Persistance.deps.json
+C:\Users\User\Desktop\megaProject\EnternetShop\EnternetShop.Persistance\bin\Debug\netcoreapp3.1\EnternetShop.Persistance.dll
+C:\Users\User\Desktop\megaProject\EnternetShop\EnternetShop.Persistance\bin\Debug\netcoreapp3.1\EnternetShop.Persistance.pdb
+C:\Users\User\Desktop\megaProject\EnternetShop\EnternetShop.Persistance\obj\Debug\netcoreapp3.1\EnternetShop.Persistance.csprojAssemblyReference.cache
+C:\Users\User\Desktop\megaProject\EnternetShop\EnternetShop.Persistance\obj\Debug\netcoreapp3.1\EnternetShop.Persistance.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\megaProject\EnternetShop\EnternetShop.Persistance\obj\Debug\netcoreapp3.1\EnternetShop.Persistance.AssemblyInfo.cs
+C:\Users\User\Desktop\megaProject\EnternetShop\EnternetShop.Persistance\obj\Debug\netcoreapp3.1\EnternetShop.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\megaProject\EnternetShop\EnternetShop.Persistance\obj\Debug\netcoreapp3.1\EnternetShop.Persistance.dll
+C:\Users\User\Desktop\megaProject\EnternetShop\EnternetShop.Persistance\obj\Debug\netcoreapp3.1\EnternetShop.Persistance.pdb

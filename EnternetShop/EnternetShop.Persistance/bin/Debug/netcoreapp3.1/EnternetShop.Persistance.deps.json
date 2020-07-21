@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EnternetShop.Persistance/1.0.0": {
+        "runtime": {
+          "EnternetShop.Persistance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EnternetShop.Persistance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
