@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\EnternetShop\EnternetShop.Application\bin\Debug\netcoreapp3.1\EnternetShop.Application.deps.json
+C:\Users\User\source\repos\EnternetShop\EnternetShop.Application\bin\Debug\netcoreapp3.1\EnternetShop.Application.dll
+C:\Users\User\source\repos\EnternetShop\EnternetShop.Application\obj\Debug\netcoreapp3.1\EnternetShop.Application.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EnternetShop\EnternetShop.Application\obj\Debug\netcoreapp3.1\EnternetShop.Application.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EnternetShop\EnternetShop.Application\obj\Debug\netcoreapp3.1\EnternetShop.Application.AssemblyInfo.cs
+C:\Users\User\source\repos\EnternetShop\EnternetShop.Application\bin\Debug\netcoreapp3.1\EnternetShop.Domain.dll
