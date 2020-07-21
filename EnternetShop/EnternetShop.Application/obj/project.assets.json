@@ -864,11 +864,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\EnternetShop\\EnternetShop.Application\\EnternetShop.Application.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\megaProject\\EnternetShop\\EnternetShop.Application\\EnternetShop.Application.csproj",
       "projectName": "EnternetShop.Application",
-      "projectPath": "C:\\Users\\User\\source\\repos\\EnternetShop\\EnternetShop.Application\\EnternetShop.Application.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\megaProject\\EnternetShop\\EnternetShop.Application\\EnternetShop.Application.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\EnternetShop\\EnternetShop.Application\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\megaProject\\EnternetShop\\EnternetShop.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -884,8 +884,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\EnternetShop\\EnternetShop.Domain\\EnternetShop.Domain.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\EnternetShop\\EnternetShop.Domain\\EnternetShop.Domain.csproj"
+            "C:\\Users\\User\\Desktop\\megaProject\\EnternetShop\\EnternetShop.Domain\\EnternetShop.Domain.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\megaProject\\EnternetShop\\EnternetShop.Domain\\EnternetShop.Domain.csproj"
             }
           }
         }

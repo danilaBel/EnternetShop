@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\EnternetShop\\EnternetShop.Infrastructure\\EnternetShop.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\megaProject\\EnternetShop\\EnternetShop.Infrastructure\\EnternetShop.Infrastructure.csproj",
       "projectName": "EnternetShop.Infrastructure",
-      "projectPath": "C:\\Users\\User\\source\\repos\\EnternetShop\\EnternetShop.Infrastructure\\EnternetShop.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\megaProject\\EnternetShop\\EnternetShop.Infrastructure\\EnternetShop.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\EnternetShop\\EnternetShop.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\megaProject\\EnternetShop\\EnternetShop.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

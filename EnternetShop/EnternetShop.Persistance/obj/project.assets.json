@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\EnternetShop\\EnternetShop.Persistance\\EnternetShop.Persistance.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\megaProject\\EnternetShop\\EnternetShop.Persistance\\EnternetShop.Persistance.csproj",
       "projectName": "EnternetShop.Persistance",
-      "projectPath": "C:\\Users\\User\\source\\repos\\EnternetShop\\EnternetShop.Persistance\\EnternetShop.Persistance.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\megaProject\\EnternetShop\\EnternetShop.Persistance\\EnternetShop.Persistance.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\EnternetShop\\EnternetShop.Persistance\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\megaProject\\EnternetShop\\EnternetShop.Persistance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

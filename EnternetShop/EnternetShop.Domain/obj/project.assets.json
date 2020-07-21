@@ -817,11 +817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\EnternetShop\\EnternetShop.Domain\\EnternetShop.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\megaProject\\EnternetShop\\EnternetShop.Domain\\EnternetShop.Domain.csproj",
       "projectName": "EnternetShop.Domain",
-      "projectPath": "C:\\Users\\User\\source\\repos\\EnternetShop\\EnternetShop.Domain\\EnternetShop.Domain.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\megaProject\\EnternetShop\\EnternetShop.Domain\\EnternetShop.Domain.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\EnternetShop\\EnternetShop.Domain\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\megaProject\\EnternetShop\\EnternetShop.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
