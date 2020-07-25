@@ -9,6 +9,8 @@ namespace EnternetShop.Domain.Entity
     {
         [Key]
         public string Id { get; set; }
+        [Key]
+        public string Name { get; set; }
 
         public IEnumerable<Subcategory> Subcategories { get; set; }
 

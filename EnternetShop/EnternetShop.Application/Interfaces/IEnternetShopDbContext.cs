@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading;
+using System.Threading.Tasks;
 
 namespace EnternetShop.Application.Interfaces
 {
@@ -15,6 +16,6 @@ namespace EnternetShop.Application.Interfaces
         DbSet<Сontact> Сontacts { get; set; }
         DbSet<Product> Products { get; set; }
 
-        public void SaveChangesAsync(CancellationToken cn);
+        public Task<int> SaveChangesAsync(CancellationToken cn);
     }
 }

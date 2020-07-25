@@ -13,8 +13,4 @@
     <ProjectReference Include="..\EnternetShop.Domain\EnternetShop.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Commands\Product\" />
-  </ItemGroup>
-
 </Project>
