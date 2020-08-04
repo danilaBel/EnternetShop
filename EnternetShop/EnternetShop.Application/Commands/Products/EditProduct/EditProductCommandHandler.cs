@@ -13,6 +13,11 @@ namespace EnternetShop.Application.Commands.Products.EditProducte
     {
         IEnternetShopDbContext context_;
 
+        public EditProductCommandHandler(IEnternetShopDbContext context_)
+        {
+            this.context_ = context_;
+        }
+
         public async Task<Unit> Handle(EditProductVm request, CancellationToken cancellationToken)
         {
             var Category = await context_.Categories.FindAsync(request.CategoryName);
